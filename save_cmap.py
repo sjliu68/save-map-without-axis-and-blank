@@ -5,7 +5,7 @@ Created on Mon May  6 16:00:00 2019
 @author: Shengjie Liu, liushengjie0756@gmail.com
 """
 
-from matplotlib.pyplot import plt
+import matplotlib.pyplot as plt
 import numpy as np
 
 def save_cmap(img, cmap, fname):
